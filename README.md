@@ -7,4 +7,4 @@ The framework is operated by agent-based modelling and the driven of the model.
 
 1.A novel Deep Reinforcement Learning model with multi-layer input
 2.Stock investment 
-3.
+3.Reward algorithm
