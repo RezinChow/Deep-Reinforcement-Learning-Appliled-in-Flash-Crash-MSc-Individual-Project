@@ -430,7 +430,7 @@ class Stock:
 
 
 
-class Bank:  # 银行
+class Bank:  # 
     def __init__(self, bank_id, interest_rate, level_rate, force_sell_rate):
         global all_bank_info
         self.bank_id = bank_id
